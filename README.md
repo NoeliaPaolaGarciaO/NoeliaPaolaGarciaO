@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**NoeliaPaolaGarciaO/NoeliaPaolaGarciaO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Noelia García estudiante de programación en la Universidad Tecnologica Nacional de Bahía Blanca, me apasiona el desarrollo web. Aquí encontrarás información sobre los lenguajes que aprendi, aprendo día a día.
 
-Here are some ideas to get you started:
+## Lenguajes y Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/HTML-8A2BE2" alt="HTML"  height="30"> <img src="https://img.shields.io/badge/CSS-8A2BE2" alt="CSS"  height="30"> <img src="https://img.shields.io/badge/JavaScript-8A2BE2" alt="JS"  height="30"> <img src="https://img.shields.io/badge/TypeScript-8A2BE2" alt="TypeScript"  height="30"> <img src="https://img.shields.io/badge/C++-8A2BE2" alt="C++"  height="30"> <img src="https://img.shields.io/badge/Bootstrap-8A2BE2" alt="Bootstrap"  height="30"> <img g src="https://img.shields.io/badge/Dialogflow-8A2BE2" alt="Python"  height="30"> <img src="https://img.shields.io/badge/Terminal-8A2BE2" alt="Terminal"  height="30">
+
+
+## Proyectos
+
+-  [portfolio](https://nicolas-andreis.github.io/portfolio/) - Personal website.
+
+-  
+## Contacto
+
+- [Correo electrónico](mailto:noeeegarcia@gmail.com) 
+- [LinkedIn](https://www.linkedin.com/in/noelia-garc%C3%ADa/)
+
+
+## ¡Hablemos!
+
+Si te interesan mis habilidades y proyectos, no dudes en contactarme. Estoy abierto/a a oportunidades de colaboración y nuevos desafíos.
+
+¡Gracias por visitar mi perfil!
