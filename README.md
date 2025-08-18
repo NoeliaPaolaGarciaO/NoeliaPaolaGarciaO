@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/JavaScript-8A2BE2" alt="JS"  height="30"> 
 <img src="https://img.shields.io/badge/C++-8A2BE2" alt="C++"  height="30"> 
 <img src="https://img.shields.io/badge/Python-8A2BE2" alt="Python"  height="30">
-
+<img src="https://img.shields.io/badge/Salesforce-8A2BE2" alt="Salesforce"  height="30">
 
 ## Proyectos
 
