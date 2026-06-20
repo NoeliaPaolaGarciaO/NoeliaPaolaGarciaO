@@ -1,6 +1,18 @@
-## Hi there 👋
+# Hola 👋 Soy Noelia García
 
-¡Hola! Soy Noelia García de Bahía Blanca, me apasiona el desarrollo web. Aquí encontrarás información sobre los lenguajes que aprendi, aprendo día a día.
+Trabajo en turismo y atención al cliente desde hace varios años.
+
+Actualmente me estoy formando en programación y Salesforce, desarrollando proyectos propios y explorando cómo la tecnología puede mejorar procesos y experiencias.
+
+📍 Bahía Blanca, Argentina
+
+## Actualmente aprendiendo
+
+- Salesforce Administrator
+- JavaScript
+- Python
+- Automatización de procesos
+- Desarrollo Web
 
 ## Lenguajes y Tecnologías
 
@@ -13,12 +25,27 @@
 ## Proyectos
 
 -  [portfolio](https://noeliapaolagarciao.github.io/Portfolio/) - Personal website.
+## Proyectos destacados
 
+### 🌍 Portfolio Personal
+Mi sitio web personal donde comparto tecnologías, proyectos y formas de contacto.
+
+### ✈️ App para agencias de viajes
+Proyecto conceptual para centralizar vouchers, reservas, tickets y documentación de viaje.
+
+### ☁️ Salesforce
+Prácticas y proyectos realizados durante mi formación como Salesforce Administrator.
 -  
-## Contacto
+## Conectemos
 
-- [Correo electrónico](mailto:noeeegarcia@gmail.com) 
-- [LinkedIn](https://www.linkedin.com/in/noelia-garc%C3%ADa/)
+💼 LinkedIn
+https://www.linkedin.com/in/noeliapgarcia/
+📬 Substack
+https://substack.com/@noepgarcia
+🌐 Portfolio
+https://noeliapaolagarciao.github.io/Portfolio
+📧 Email
+noeeegarcia@gmail.com
 
 
 ## ¡Hablemos!
