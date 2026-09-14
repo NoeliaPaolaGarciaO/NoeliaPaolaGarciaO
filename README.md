@@ -40,6 +40,8 @@ Prácticas y proyectos realizados durante mi formación como Salesforce Administ
 
 💼 LinkedIn
 https://www.linkedin.com/in/noeliapgarcia/
+    Instagram
+https://www.instagram.com/soynoelia.garcia/
 📬 Substack
 https://substack.com/@noepgarcia
 🌐 Portfolio
